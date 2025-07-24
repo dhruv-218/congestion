@@ -2,12 +2,15 @@
 
 This project uses machine learning to predict traffic congestion levels for NYC taxi trips and provides interactive route visualization with congestion mapping.
 
-![Congestion Map Preview](https://github.com/dhruv-218/congestion/blob/main/ScreenRecording2025-07-24at7-ezgif.com-video-to-gif-converter.gif)
-
-⬇️
-
-[View Live Map](https://dhruv-218.github.io/congestion/congestion_route_map.html)
-
+<p align="center">
+  <img src="ScreenRecording2025-07-24at7-ezgif.com-video-to-gif-converter.gif" alt="Congestion Map Preview" width="500"/>
+  <br>
+   ↓
+  <br>
+  <a href="https://dhruv-218.github.io/congestion/congestion_route_map.html">
+    <b>View Live Map</b>
+  </a>
+</p>
 
 
 
