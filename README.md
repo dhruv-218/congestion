@@ -2,6 +2,9 @@
 
 This project uses machine learning to predict traffic congestion levels for NYC taxi trips and provides interactive route visualization with congestion mapping.
 
+![Congestion Route Map](images/congestion_route_map.png)
+
+
 ## Overview
 
 The system analyzes NYC Yellow Taxi trip data to:
