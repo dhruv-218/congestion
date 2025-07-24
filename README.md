@@ -1,9 +1,9 @@
-# NYC Taxi Trip Congestion Prediction
+#  Taxi Trip Congestion Prediction
 
 This project uses machine learning to predict traffic congestion levels for NYC taxi trips and provides interactive route visualization with congestion mapping.
 
 <p align="center">
-  <img src="ScreenRecording2025-07-24at7-ezgif.com-video-to-gif-converter.gif" alt="Congestion Map Preview" width="500"/>
+  <img src="ScreenRecording2025-07-24at7-ezgif.com-video-to-gif-converter.gif" alt="Congestion Map Preview" width="800"/>
   <br>
    ↓
   <br>
